@@ -1,2 +1,2 @@
 # Job-DSL
-multiple jenkins job dsl for jenkins automation repo
+multiple Jenkins job dsl for Jenkins automation repo
